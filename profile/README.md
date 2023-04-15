@@ -15,6 +15,12 @@ If you want to contribute, you can fork this repository and issue pull requests!
 
 ### Updates
 
+**2023/04/14**
+* Move to Peerbrain organization on Github
+* Codebase split into its components
+* User delete functionality added
+* Various bug fixes
+
 **2023/03/15**
 * Code clean-up
 * User account creation now requires email verification before allowing you to login
